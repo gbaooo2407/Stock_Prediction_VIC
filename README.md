@@ -4,6 +4,7 @@
 Dự án này nhằm phân tích cổ phiếu VIC - Tập đoàn Vingroup, một trong những công ty lớn nhất tại Việt Nam, thông qua các kỹ thuật phân tích cơ bản và kỹ thuật. Dữ liệu được thu thập, xử lý và trực quan hóa để đưa ra nhận định đầu tư hợp lý cho nhà đầu tư cá nhân.
 
 📊 Nội dung phân tích
+
 A) Giới thiệu doanh nghiệp
   - Tên công ty: Tập đoàn Vingroup
   - Mã cổ phiếu: VIC
